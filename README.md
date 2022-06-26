@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Docker and AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mansurcan/](https://github.com/mansurcan/)
+- 👨‍💻 All of my projects are available at [https://github.com/mansurcan/]Github
 
 - 📫 How to reach me **mansurcan@gmail.com**
 
-- 📄 Know about my experiences [https://mansurcan-27400.web.app/](https://mansurcan-27400.web.app/)
+- 📄 Know about my experiences [https://www.mansurcan.com/] Portfolio Resume Website
 
 - ⚡ Fun fact **I like watching movies and playing football, basketball, table tennis.**
 
