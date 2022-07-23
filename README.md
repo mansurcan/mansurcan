@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mansur.</h1>
-<h3 align="center">Currently training within Ai Core since mid-February and working on Software & Cloud Engineering Essentials-Data Collection Pipeline-module 5 web-scraping project which involves Selenium, Aws and Docker. After completion, will continue Data Science-ML Engineering route.</h3>
+<h3 align="center">Currently training within Ai Core since mid-February and working on Software & Cloud Engineering Essentials- Data Collection Pipeline project which involves Selenium, Aws and Docker. After completion, will continue ML engineering route which has convolutional neural network project what I used when I complete my dissertation.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansurcan&label=Profile%20views&color=0e75b6&style=flat" alt="mansurcan" /> </p>
 
