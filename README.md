@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansur.</h1>
-<h3 align="center">Currently training within Ai Core since mid-February and working on Software & Cloud Engineering Essentials- Data Collection Pipeline project which involves Selenium, Aws and Docker. After completion, will continue ML engineering route which has convolutional neural network project what I used when I complete my dissertation.
+<h3 align="center">Working on Software & Cloud Engineering Essentials- Data Collection Pipeline project which involves Selenium, Aws and Docker.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansurcan&label=Profile%20views&color=0e75b6&style=flat" alt="mansurcan" /> </p>
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mansur-can-609ba336/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansur-can-609ba336/" height="30" width="40" /></a>
+<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansur-can-609ba336/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
