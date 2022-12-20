@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansur.</h1>
-<h3 align="center">Working on Software & Cloud Engineering Essentials- Data Collection Pipeline project which involves Selenium, Aws and Docker.
+<h3 align="center">Currently, I am working on a migration project in a team. We are moving data from RDBMS to HDFS, which is in CDP on-prem, with NiFi. I have experience on both prem and cloud. Previously, The job was to design Spark streaming to receive live data from Kafka via Flask which was scraped from the websites. The information is stored to HDFS and Hive for the analysis. The results-data visualization- are presented in Superset which is liked to the Hive. Built industry-standard programs and worked on Data Collection Pipeline project which involves Python, Selenium, AWS (RDS, S3, EC2), Docker, Grafana, Prometheus.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansurcan&label=Profile%20views&color=0e75b6&style=flat" alt="mansurcan" /> </p>
