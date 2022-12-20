@@ -6,9 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansurcan" alt="mansurcan" /></a> </p>
 
-- 🔭 I’m currently working on [Webscraper](https://github.com/mansurcan/Webscraper)
+- 🔭 I’m currently working on [DataMigration]
+<!-- - (https://github.com/mansurcan/Webscraper) -->
 
-- 🌱 I’m currently learning **Docker and AWS**
+<!-- - 🌱 I’m currently learning **Docker and AWS** -->
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/mansurcan)
 
