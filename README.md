@@ -8,7 +8,7 @@ In my previous involvement, I played a key role in a collaborative migration pro
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansurcan" alt="mansurcan" /></a> </p>
 
-- 🔭 I’m currently working on [Common Data Model (CDM)]
+- 🔭 I’m currently working on [Common Data Model (CDM)](https://learn.microsoft.com/en-us/common-data-model/)
 <!-- - (https://github.com/mansurcan/Webscraper) -->
 
 <!-- - 🌱 I’m currently learning **Docker and AWS** -->
