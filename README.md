@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mansur.</h1>
-<h3 align="center">Currently, I am working on a migration project in a team. We are moving data from RDBMS to HDFS, which is in CDP on-prem, with NiFi. I have experience on both prem and cloud. Previously, The job was to design Spark streaming to receive live data from Kafka via Flask which was scraped from the websites. The information is stored to HDFS and Hive for the analysis. The results-data visualization- are presented in Superset which is liked to the Hive. Built industry-standard programs and worked on Data Collection Pipeline project which involves Python, Selenium, AWS (RDS, S3, EC2), Docker, Grafana, Prometheus.
+<h3 align="center">Welcome to my personal website! I am dedicated to navigating the intricate landscape of data management through the lens of the Common Data Model (CDM) project. With a passion for transforming raw data into meaningful insights, I specialize in the seamless mapping of diverse data sources onto the robust framework of the CDM. My journey involves harnessing the power of Azure Synapse Studio and Azure Data Lake to orchestrate this transformation, ensuring precision and efficiency every step of the way. As an advocate for structured and standardized data, I am driven by the vision of unlocking the true potential of information. Join me on this expedition as I bridge the gap between raw data and the enriched possibilities that lie within the Dataverse, creating a harmonious synergy between technology and data-driven innovation.
+
+In my previous involvement, I played a key role in a collaborative migration project where we skillfully transferred data from an RDBMS to HDFS within the Cloudera Data Platform using NiFi, seamlessly bridging the realms of on-premises and cloud environments. Particularly, I led the design of a Spark streaming architecture to capture real-time data from Kafka via Flask, a result of web scraping. This data was carefully stored in HDFS and smoothly integrated with Hive for comprehensive analysis, with the subsequent insights elegantly visualized through Superset, fostering an accessible connection to our Hive repository. This diverse journey showcases my ability to orchestrate data transformation across different platforms, consistently yielding actionable insights.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansurcan&label=Profile%20views&color=0e75b6&style=flat" alt="mansurcan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansurcan" alt="mansurcan" /></a> </p>
 
-- 🔭 I’m currently working on [DataMigration]
+- 🔭 I’m currently working on [Common Data Model (CDM)]
 <!-- - (https://github.com/mansurcan/Webscraper) -->
 
 <!-- - 🌱 I’m currently learning **Docker and AWS** -->
